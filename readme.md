@@ -1,11 +1,9 @@
-
 # Login and Register Using Firebase
 
 ## 🚀 About this proyect
 I created this project to learn Firebase and improve my React skills.
 
-you can login and register with your email or google account to access a simple home (no content), where for now you can only log out.
-
+log in and register with your email or google account to access a simple home page (without content), where for now you can only log out. Also if you forgot your password you can also recover it.
 #### Project WebSite: https://login-register-firebase.netlify.app
 
 ## Usage
@@ -53,4 +51,6 @@ To run this project, you will need to add the following environment variables to
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://res.cloudinary.com/dkxm9njd6/image/upload/v1653942411/login_dhhvfe.png)
+
+![App Screenshot](https://res.cloudinary.com/dkxm9njd6/image/upload/v1653942411/login2_k2cstp.png)
