@@ -104,7 +104,7 @@ const Login = () => {
 
             {({values, handleChange, handleSubmit, handleBlur, errors, touched}) => (
               <>
-                <h1 className='text-xl text-center uppercase font-bold text-orange-500 mb-10 sm:mx-20 underline'>Login with firebase</h1>
+                <h1 className='text-xl text-center uppercase font-bold text-orange-500 mb-10 sm:mx-20 underline'>Login</h1>
 
                 
                 <form action="" onSubmit={handleSubmit} className="flex flex-col gap-4 w-full">

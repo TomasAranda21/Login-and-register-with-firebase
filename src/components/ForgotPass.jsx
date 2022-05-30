@@ -75,7 +75,7 @@ const ForgotPass = () => {
 
             {({values, handleChange, handleSubmit, handleBlur, errors, touched}) => (
                 <>
-                <h1 className='text-xl text-center uppercase font-bold text-orange-500 mb-10 underline'>Recover your password with firebase</h1>
+                <h1 className='text-xl text-center uppercase font-bold text-orange-500 mb-10 underline'>Recover your password</h1>
 
                 
                 <form action="" onSubmit={handleSubmit} className="flex flex-col gap-10 w-full">
